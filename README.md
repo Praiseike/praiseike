@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ibangha Ike</h1>
-<h3 align="center">A passionate backend web developer</h3>
+<h3 align="center">A passionate Fullstack web developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praiseike" alt="praiseike" /></a> </p>
 
-- 🔭 I’m currently working on [majik mirror](HTTPS://GitHub.com/praiseike/majik-mirror)
-
-- 💬 Ask me about **PHP, Laravel, Python, C/C++**
+- 💬 Ask me about **PHP, React, Laravel, Python, C/C++**
 
 - 📫 How to reach me **praiseike123@gmail.com**
 
-- 📄 Know about my experiences [HTTPS://praise-ike.netlify.app](HTTPS://praise-ike.netlify.app)
+- 📄 Know about my experiences [https://praise-ike.netlify.app](https://praise-ike.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
