@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **praiseike123@gmail.com**
 
-- 📄 Know about my experiences [https://praise-ike.netlify.app](https://praise-ike.netlify.app)
+- 📄 Know about my experiences [https://ibangha-ike.netlify.app](https://ibangha-ike.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
